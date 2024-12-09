@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Atm-Banking](https://github.com/devzeeh/ATM-BANKING) and [Apartment Management System](https://github.com/devzeeh/apartment)
 
-- 🌱 I’m currently learning **$${\color{blue}PHP, \space \color{green}node.js}$$**
 - 📫 you can reach me at: **johnerrol.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
