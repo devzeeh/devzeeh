@@ -1,8 +1,8 @@
-<h3>I'm Computer Engineering Student. Passionate About Technology, Engineering, and Designing. </h3>
-
-- 🔭 I’m currently working on [Atm-Banking](https://github.com/devzeeh/ATM-BANKING) and [Apartment Management System](https://github.com/devzeeh/apartment)
+<h3>I'm Computer Engineering Student. Passionate About Technology, and Engineering. </h3>
 
 - 📫 you can reach me at: **johnerrol.dev@gmail.com**
+
+- I’m currently <b>Python</b> and <b>Go</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
