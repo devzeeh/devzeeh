@@ -2,7 +2,7 @@
 
 - 📫 you can reach me at: **johnerrol.dev@gmail.com**
 
-- I’m currently <b>Python</b> and <b>Go</b>
+- I’m currently learning <b>Python</b> and <b>Go</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
