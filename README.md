@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)
 
-- 📫 you can reach me at: **devzeeh@gmail.com**
-
 - I’m currently learning <b>Go Programming Language</b>
 
 <h3 align="left">TechStack/TechTools:</h3>
