@@ -1,4 +1,4 @@
-<h3>Newbie developer based in the Philippines.</h3>
+<h3>Developer from the Philippines.</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)
 
