@@ -1,6 +1,6 @@
 <h3>Developer from the Philippines.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)-->
 
 - I’m currently learning <b>Go Programming Language</b>
 
