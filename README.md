@@ -5,7 +5,28 @@
 - I’m currently learning <b>Go Programming Language</b>
 
 <h3 align="left">TechStack/TechTools:</h3>
-<p align="left">  
-<!--golang--><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <!--PHP--><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a ><!--ptyhon--><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--java--><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="c logo" title="Go"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="cplusplus logo" title="PHP" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="csharp logo" title="Pyhtpn" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="html5 logo" title="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="javascript logo" title="HTML"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="css3 logo" title="MySQL"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
+  <img width="12" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devzeeh&layout=compact&langs_count=8&theme=tokyonight&hide=html,css)
+---
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devzeeh&theme=tokyonight" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devzeeh&theme=tokyonight" width="48%" height="auto" style="display: inline;" />  
+</div> 
