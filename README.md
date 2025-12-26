@@ -16,11 +16,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="javascript logo" title="HTML"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="css3 logo" title="MySQL"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="css3 logo" title="PostgreSQL"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="css3 logo" title="Supabase"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="css3 logo" title="MongoDB"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
 </div>
 
