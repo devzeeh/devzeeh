@@ -2,7 +2,7 @@
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)-->
 
-- I’m currently learning <b>Go Programming Language</b>
+- Currently learning <b>Go Programming Language</b>
 
 <h3 align="left">TechStack/TechTools:</h3>
 <div align="left">
@@ -19,14 +19,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="css3 logo" title="MySQL"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="css3 logo" title="PostgreSQL"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="css3 logo" title="Supabase"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="css3 logo" title="MongoDB"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
 </div>
 
