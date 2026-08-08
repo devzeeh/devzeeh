@@ -1,19 +1,12 @@
 <h3>Developer from the Philippines.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devzeeh&color=blue)
-
 <h3 align="left">TechStack/TechTools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="c logo" title="Go"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="cplusplus logo" title="PHP" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="javascript logo" title="HTML"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="css3 logo" title="MySQL"/>
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" title="Gitlab/>
 </div>
 
 ---
