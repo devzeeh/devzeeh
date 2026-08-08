@@ -2,11 +2,16 @@
 
 <h3 align="left">TechStack/TechTools:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" title="Go"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" title="Gitlab/>
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="c logo" title="Go"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="Gitlab" />
+  <img width="12" />
 </div>
 
 ---
